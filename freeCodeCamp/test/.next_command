@@ -1,0 +1,10 @@
+rmdir images
+cd images
+ls --color=auto
+find
+find -name website/images
+find images
+find website/images
+rmdir images/website
+cd /workspace/project/website
+rmdir images
