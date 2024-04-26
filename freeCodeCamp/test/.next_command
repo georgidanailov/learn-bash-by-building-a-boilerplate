@@ -8,3 +8,4 @@ find website/images
 rmdir images/website
 cd /workspace/project/website
 rmdir images
+ls --color=auto
