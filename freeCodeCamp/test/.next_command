@@ -24,3 +24,6 @@ ls --color=auto
 find client/assets/fonts
 touch lato-bold.ttf client/assets/fonts
 touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/late-light.ttf
+touch client/assets/fonts/lato-light.ttg
+touch client/assets/fonts/lato-light.ttf
