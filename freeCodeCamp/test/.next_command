@@ -28,3 +28,4 @@ touch client/assets/fonts/late-light.ttf
 touch client/assets/fonts/lato-light.ttg
 touch client/assets/fonts/lato-light.ttf
 find
+rm --help
