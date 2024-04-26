@@ -22,3 +22,5 @@ touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
 ls --color=auto
 find client/assets/fonts
+touch lato-bold.ttf client/assets/fonts
+touch client/assets/fonts/lato-bold.ttf
